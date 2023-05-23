@@ -1,0 +1,8 @@
+My name is Yuri, 
+My surname is Melnikov and
+My patronymic is Valer'evich.
+
+I'm 30 years old.
+I don't have a pet.
+I want a salary of 2000 USD.
+
