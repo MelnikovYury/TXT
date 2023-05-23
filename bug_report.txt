@@ -1,1 +1,10 @@
-
+   id: 1,
+  environment: Samsung A41 Android 12 Chrome 113,
+  title: Missing images on some Glossary pages,
+  steps_to_reproduce: Navigate to website, Hover over the Education menu section, Click the Glossary of trading terms item,
+  expectly_result: The image srcset link has no space characters, as a result image is shown on the page,
+  actual_result: The image srcset link has a space characters, as a result image is not shown on the page,
+  link_attach: link,
+  comments: some comments,
+  bug_reproduced: Yuriy Melnikov,
+  bug_reviewed: Oleg Ivanov
